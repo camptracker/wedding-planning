@@ -2,8 +2,9 @@ export function Timeline() {
   return (
     <div>
       <p className="section-intro">
-        A typical wedding planning timeline for an outdoor property wedding. 
-        Adjust based on your wedding date and how DIY you're going.
+        A typical wedding planning timeline for an outdoor property wedding near Visalia / Three Rivers. 
+        Adjust based on your wedding date and how DIY you're going. 
+        Fall is the sweet spot — cooler temps, beautiful foothill scenery near Sequoia National Park.
       </p>
 
       <div className="timeline-item">
@@ -12,7 +13,7 @@ export function Timeline() {
           <h3>Set the Foundation</h3>
           <ul>
             <li>Set budget and guest count estimate</li>
-            <li>Choose a date (consider Woodland weather — spring/fall are ideal, summer is hot)</li>
+            <li>Choose a date (consider Central Valley weather — spring/fall are ideal, summer is very hot 100°F+)</li>
             <li>Book caterer (popular ones book 12+ months out)</li>
             <li>Book DJ or band</li>
             <li>Start planning property layout (ceremony spot, reception area, parking, restrooms)</li>
@@ -33,7 +34,7 @@ export function Timeline() {
             <li>Book officiant</li>
             <li>Plan ceremony details (readings, vows, processional)</li>
             <li>Start dress/attire shopping</li>
-            <li>Research florist options</li>
+            <li>Research florist options (Visalia has several local florists)</li>
           </ul>
         </div>
       </div>
@@ -61,13 +62,13 @@ export function Timeline() {
           <h3>Logistics & Coordination</h3>
           <ul>
             <li>Send invitations (with RSVP deadline 1 month before)</li>
-            <li>Check Yolo County permit requirements for tent size</li>
+            <li>Check Tulare County permit requirements for tent size</li>
             <li>Plan parking layout and signage</li>
             <li>Arrange transportation for wedding party if needed</li>
-            <li>Plan rehearsal dinner</li>
+            <li>Plan rehearsal dinner (The Vintage Press in Visalia is a great option!)</li>
             <li>Buy wedding rings</li>
-            <li>Get marriage license (Yolo County Clerk — $90 fee, valid 90 days)</li>
-            <li>Plan honeymoon</li>
+            <li>Get marriage license (Tulare County Clerk-Recorder in Visalia — (559) 636-5050, ~$90 fee, valid 90 days)</li>
+            <li>Plan honeymoon (Sequoia National Park is right next door for a mini-moon!)</li>
           </ul>
         </div>
       </div>
@@ -84,6 +85,7 @@ export function Timeline() {
             <li>Create seating chart if doing assigned seating</li>
             <li>Break in wedding shoes</li>
             <li>Finalize playlist or song requests with DJ</li>
+            <li>Check fire restrictions if during fire season (summer/fall) — CAL FIRE website</li>
           </ul>
         </div>
       </div>
@@ -116,7 +118,7 @@ export function Timeline() {
             <li><strong>Ceremony:</strong> 30-45 minutes typical</li>
             <li><strong>Cocktail hour:</strong> 1 hour (transition to reception setup if same area)</li>
             <li><strong>Reception:</strong> Dinner, toasts, first dance, cake, dancing</li>
-            <li><strong>End:</strong> Respect Yolo County noise ordinance — wind down music by 10 PM</li>
+            <li><strong>End:</strong> Respect Tulare County noise ordinance — wind down music by 10 PM</li>
           </ul>
         </div>
       </div>
@@ -130,7 +132,7 @@ export function Timeline() {
             <li>Restroom trailer pickup</li>
             <li>Property cleanup crew (recruit friends or hire — $15-20/hr)</li>
             <li>Return any personally rented equipment</li>
-            <li>Enjoy being married! 💍</li>
+            <li>Enjoy being married! 💍 Maybe take a drive up to Sequoia for photos!</li>
           </ul>
         </div>
       </div>

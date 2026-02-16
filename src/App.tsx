@@ -17,7 +17,7 @@ function App() {
       <header className="header">
         <div className="header-content">
           <h1>Jon's Wedding Planning</h1>
-          <p className="subtitle">5-Acre Property · Woodland, California · 2026</p>
+          <p className="subtitle">5-Acre Property · Visalia / Three Rivers, California · 2026</p>
         </div>
       </header>
 
@@ -47,7 +47,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>Wedding Planning Resource · Woodland, Yolo County, CA</p>
+        <p>Wedding Planning Resource · Visalia / Three Rivers, Tulare County, CA</p>
       </footer>
     </div>
   )
